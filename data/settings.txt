@@ -1,0 +1,13 @@
+{
+	"WIFI_mode": 1,
+	"WIFI_ssid": "241a",
+	"WIFI_pass": "qazxswedc",
+	"SERVER_port": 80,
+	"SERVER_hostname": "smart-metter.local",
+	"DS_count": 1,
+	"DS_pin": 12,
+	"wetness_pin": 16,
+	"ATT7022": true,
+	"ATT7022_command": [0x01,0x02],
+	"GET_Server": "http://194.87.99.81:70/mearsurements.php"
+}

@@ -1,0 +1,17 @@
+﻿{
+	"WIFI_mode": 1,
+	"WIFI_ssid": "ARuban",
+	"WIFI_pass": "5900f7&G",
+	"SERVER_port": 80,
+	"SERVER_hostname": "smart-metter.local",
+	"mqtt_server": "broker.mqttdashboard.com",
+	"mqtt_port": 1883,
+	"mqtt_user": "",
+	"mqtt_pass": "",
+	"DS_count": 2,
+	"DS_pin": 12,
+	"wetness_pin": 16,
+	"ATT7022": true,
+	"ATT7022_command": [0x01,0x02],
+	"GET_Server": "http://194.87.99.81:70/mearsurements.php"
+}
